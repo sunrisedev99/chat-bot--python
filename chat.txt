@@ -1,0 +1,605 @@
+Thursday, Jul 04
+Antonii Roh 3:15 AM
+Dear Client, Nice to meet you.
+Thanks for considering for my application.
+
+
+
+I have rich experience in Make.com's scenario development, I recently developed the cold call system for shopify abandoned cart.
+Please check my scenarios out if you'd like.
+
+
+
+1. Shopify abandoned cart Information to Google Sheets
+In this scenario, abandoned cart information is extracted from the Shopify store and stored in the 'abandoned cart' sheet in Google Spreadsheet. All information to date is stored in this sheet, and the current scenario automatically extracts and stores data generated from now on.
+Scheduling: 01:00 daily(Netherlands time zone)
+
+
+
+2. Choose 10 leads Scenario
+Make.com's Watch Shopify abandoned cart component does not have a method of extracting data in a descending order method, so data is extracted as a standard, and 10 data from the previous day are selected from the 'abandoned cart' sheet and added into the 'Lead List' sheet.
+Scheduling: 00:30 daily(Netherlands time zone)
+
+
+
+3. AI Cold Caller Scenario
+This is a cold call scenario using Vapi, and phone numbers with a status value of 'not-call' are automatically leaded in the 'Lead List' sheet.
+Scheduling: 01:00 daily(Netherlands time zone)
+
+
+
+4. AI Cold Caller Scenario Callbacks
+This is a scenario to save transcripts from cold call callback.
+Scheduling: immediately per response
+
+
+
+I look forward to contribute of your project success.
+
+
+
+Best regards,
+Antonii
+
+View details
+3 files 
+Shopify-abandoned-cart-Information-to-GoogleSheets.json
+13 kB
+ai-cold-caller-template-2-0-callbacks.json
+29 kB
+vapi-ai-cold-caller-from-GoogleSheet-template-2-0.json
+110 kB
+Danny Ferraro 3:15 AM
+Hey what’s up man
+
+Antonii Roh 3:17 AM
+Hi, What do you mean?
+
+Danny Ferraro 3:18 AM
+You responded to me posting
+
+Antonii Roh 3:19 AM
+Yes, I send Make.com's scenarios I made to show my ability for AI automation
+
+Danny Ferraro 3:20 AM
+Saw those
+
+My concept mixes csv files with chat gpt
+
+Antonii Roh 3:21 AM
+there is a openai component in Make.com
+
+Danny Ferraro 3:21 AM
+It’s basically a social media prospecting tool that allows chat gpt to survey a page for Twitter LinkedIn or instagram and use a pre-built prompt to create a personalized message
+
+But it would have to be at scale and built into a website
+
+Antonii Roh 3:23 AM
+Make sense, the website is needed for API to survey Twitter or so, I think
+
+Danny Ferraro 3:23 AM
+Is it possible to build this
+
+Thru make
+
+Antonii Roh 3:24 AM
+Yeah, I can do it
+
+If there is an API that extracts data from social sites, it can be nicely integrated with OpenAI on Make.com
+
+If you want to use OpenAI API directly without Make.com, it's possible too.
+
+Danny Ferraro 3:26 AM
+So just to put this together. A person can upload a csv file with 200 LinkedIn profiles let’s say. You can run the prompt on all 200 profiles and it’ll create a unique message for each based on what’s in their profile. Like a post or the about section.
+
+Same thing with Twitter and instagram it can go in thru url
+
+Antonii Roh 3:27 AM
+Okay
+
+Danny Ferraro 3:27 AM
+I’m asking do I have a good idea of what can be done e
+
+I know make is a little more direct with some features
+
+Antonii Roh 3:28 AM
+I understood your idea so am building deveopment milestones
+
+Danny Ferraro 3:29 AM
+What would this look like for hours and would you also be building out the site and payment gateways. It would be a tiered pricing model
+
+Antonii Roh 3:30 AM
+what do you prefer the payment gateways?
+
+Danny Ferraro 3:31 AM
+Like stripe you mean?
+
+Antonii Roh 3:31 AM
+Yes,
+
+paypal or credit card...
+
+Danny Ferraro 3:32 AM
+It would be stripe to start
+
+Since it’ll work with Apple Pay and credit
+
+Antonii Roh 3:32 AM
+Okay
+
+Danny Ferraro 3:32 AM
+What would this look like from an hours standpoint
+
+Antonii Roh 3:33 AM
+I am thinking, give me 10 mins
+
+Antonii Roh 3:45 AM
+I can use Flask framework for this project.
+M1: CSV Processing( 2 ~ 3 hours)
+- Implement CSV file reading functionality
+- Create a basic Profile Class to store data
+M2: Social Media API Integration( 3~4 hours) - only Linkedin
+- Set up authentication for Linkedin
+- Implement functions to fetch profile data from that platform
+- Crate platform-specific Profile subclasses
+M3: Message Generation System(3-4 hours)
+- Set up a GPT-3 model for message generation
+- Crate prompts based on standardized profile data
+- Add basic personalization based on profile fields
+M4: Integration and Workflow(8-10 hours)
+- Create main processing function to handle CSV input
+- Implement queue system for managing API requests within rate limits
+- Set up logging system for tracking progress
+
+
+
+Totally 16 ~ 21 hours, I think
+
+Danny Ferraro 3:47 AM
+What would the end user experience, so like
+
+
+
+Is it a site or an extension
+Will they have to scrape the content themselves or would the system do it
+Would they have to paste the message or would it auto send
+Would this work with LinkedIn Twitter and instagram
+
+Antonii Roh 3:49 AM
+It should be a site, I confirm we can extract data from Linkedin, there are some trouble for scraping in social site, but I will find the best way
+
+Danny Ferraro 3:51 AM
+What would it look like with Twitter and instagram
+
+Antonii Roh 3:51 AM
+I am checking
+
+if we present with options to connect their social media accounts (LinkedIn, Twitter, Instagram), then no problem in scraping and posting
+
+Danny Ferraro 3:58 AM
+So they’d be able to send directly into the dm even if they’re using a csv or would that be if they were on a specific page run the prompt it does the work and then they go to a different page
+
+Antonii Roh 4:01 AM
+You are right
+
+Danny Ferraro 4:01 AM
+Which one was right
+
+Antonii Roh 4:03 AM
+Users can send post they made using chatgpt into person they purpose
+
+directly in this site
+
+if they connect their sociall account with this site
+
+Danny Ferraro 4:04 AM
+I’m looking for it at scale. The 1:1 isn’t enough of a difference. The csv I feel like makes the most sense so you can do lump sums
+
+Antonii Roh 4:06 AM
+so you want broadcasting post in social site?
+
+GPT-3 model is free so you can not pay for creating post, it's possible to post many simultanously
+
+Danny Ferraro 4:07 AM
+I want bulk csv upload with linkedin profiles. Run the prompt and each url is analyzed and a personalized dm is created. From there they can copy and paste it into a dm
+
+Antonii Roh 4:08 AM
+Yeah, if you can connect your social account, it's possible.
+
+I can describe the workflow.
+1. Upload bulk csv with linkedin profile
+2. authorize Linkedin api using your social account
+3. get datas from each linkedin user url
+4. analyze personal datas using OpenAI
+5. creating personalized post or message
+6. create dm using linkeding api
+
+That's all
+
+Danny Ferraro 4:14 AM
+It would work with Twitter and instagram as well?
+
+And this can be built into a website
+
+Antonii Roh 4:14 AM
+one sec
+
+You removed this message
+
+You removed this message
+
+Antonii Roh 4:51 AM
+Hi, I found a solution for X and Instagram
+
+Twitter:
+curl --location 'https://scraping.soax.com/v2/twitter/users/XXX' \
+--header 'X-SOAX-API-Secret: XXXXX'
+
+Antonii Roh 5:06 AM
+Instgram:
+https://graph.facebook.com/v18.0/${pageId}/conversations?platform=instagram&fields=participants,messages{id,message,from,created_time}&access_token=${pageAccessToken}
+
+Antonii Roh 3:44 PM
+Hi Danny, DM is possible on Linkedin, Instagram and Twitter, can be shown through first milestone.
+However I need some API keys - Soax API, Hiker API and Facebook API
+Please let me know if you are possible to work with me.
+Thanks.
+
+Saturday, Jul 06
+Danny Ferraro 9:24 PM
+Hey there’s something I want to send over to see if a ui can work
+
+Sunday, Jul 07
+Antonii Roh 12:12 AM
+Okay
+
+Danny Ferraro 3:13 AM
+so after considering the workload, what would it look like to do the following: just Twitter, the same principle with the chat gpt integration but build this type of site around it that loads the leads in, analyzes the pages, creates the prompts and they can preload into template variants and a sequence can be built for delivery. attaching 3 samples
+
+3 files 
+lemlist1.png
+lemlist2.png
+lemlist3.png
+lemlist1.png 
+lemlist1.png
+let me know your thoughts
+
+Antonii Roh 3:37 AM
+Hi, I can not see lemlist3.png
+
+When you load bulk csv, it is defined as one campaign, and the csv is interpreted to first obtain user's Twitter acc information, based on that personalized DMs are created,
+
+If campaign runs, the system should send DM.
+
+so my plan based on my understanding is as follows.
+
+1. Create Campaign
+- import csv, define matching fields between csv and database.
+
+match.png 
+match.png
+2. Analysis user's twitter account
+- User profile information
+- Follower and following counts
+- Total number o f tweets
+- Most commonly used hashtags
+- Most frequently mentioned users
+- Average tweets per day
+
+3. User pre-defined prompt template for generating DM
+- Create prompt
+- Setup prompt to the campaign
+- Generating personalized DM with their information
+
+4. Running Campaign
+- Create DM via Twitter API
+
+Please check my thought and fix me.
+
+Danny Ferraro 3:58 AM
+no i'm with you
+
+the only other step would be 2 fold, the campaign would have variants that it alternates and it would also have a sequence so it follows up however many times the user wants and stops once it gets a response. it would also have a master inbox so that the campaign can run but the replies woudl then go to a main inbox in a seperate tab so that they can direclty interact
+
+Antonii Roh 4:01 AM
+Make sense, I understood all.
+
+I can make mock up for this project in detail.
+
+I have one question.
+
+Do you want a SaaS platform with this idea? or only for you?
+
+Danny Ferraro 4:02 AM
+saas platform
+
+that's why i wanted to send the screenshots of the webpage view, it'll have pricing models built in
+
+Antonii Roh 4:04 AM
+Okay, it would be great if you have screenshots more, it helps me to make full mock up for this project.
+
+Danny Ferraro 4:04 AM
+sure
+
+2 files 
+lemlistleads.png
+lemlisttemplates2.png
+Antonii Roh 4:09 AM
+Okay, then I can start to work from now on if you make offer.
+
+Danny Ferraro 4:23 AM
+how does this impact the time frame and what are we looking at to build this out
+
+so we can work an offer
+
+also man aren't you in europe, you keep really awesome ny hours lol
+
+Antonii Roh 4:28 AM
+it takes about 4 hours to make mockup, I will refer pages on http://lemlist.com.
+I think it's the first milestone.
+
+lemlist | The only cold outreach tool that helps you reach inboxes and get replies
+Find leads with verified emails with lemlist, write and personalize at scale, and combine email, LinkedIn, and phone calls to get customers.
+And I want to work with US clients so changed my work time
+
+into their timezone.
+
+isn't it benefit for you?
+
+Danny Ferraro 4:30 AM
+its a huge benefit lol
+
+and it's super appreciated
+
+so what does this look like for hours, cost, what this will look like to build now that it's down to one platofrm
+
+platform*
+
+Antonii Roh 4:36 AM
+It takes 3 weeks to implement from mockup to payment module. Also another one week is needed for test and feedback processing.
+it's estimation for development timeline.
+My hourly rate is 45, if I know your investment for this project, I can fix my rate as your budget.
+
+Also I can work per milestone, not hourly
+
+Danny Ferraro 4:38 AM
+what is the hourly estimate
+
+so we can see how this can work
+
+not sure if we're still in the territory of make (.) com or developing now
+
+Antonii Roh 4:40 AM
+I suggest independent platform, not use make dot com
+
+4 weeks 40 hours 45 = 7200 USD is estimation but I don't know your investment
+
+If I know it, I will fix my hourly rate.
+
+Danny Ferraro 4:45 AM
+I wanted to stay at 5k for the project, my issue is I commit and even though we can go based on milestone over hourly and it's protected through upwork, my concern is finishing. the milestones don't mean all that much at the end if there's an unfinished product
+
+do you have any examples of any sites I can see that you've worked on, it's still a sizeable investment and I want to be fair to the work you're going to do
+
+Antonii Roh 4:48 AM
+Make sense, to be honest I don't want to share my works. Over 2 years, I worked in social media marketing project team, ,have many experience in web development
+
+astream dot jp
+
+Danny Ferraro 4:49 AM
+i can't really tell much by a Japanese website
+
+what does the mockup consist of?
+
+why not come to terms on that to see what it looks like, I think there's a leap on both our parts but you said 4 hours which would be 200, we'll do 100 for the mockup and take it from there when it's up and running to see what next steps looks like
+
+Antonii Roh 4:52 AM
+I told only 4 hours for mockup development.
+
+2024-07-07.png 
+2024-07-07.png
+Danny Ferraro 4:52 AM
+I know, that'll will be to see what this will look like, i'll do 100 for the mockup so we can review to see what this will look like and where we go from there when it's done
+
+Antonii Roh 4:55 AM
+Make sense,
+
+I will build the milestone stages for the entire project in the mockup milestone
+
+Danny Ferraro 4:56 AM
+ok
+
+Antonii Roh 4:56 AM
+and in development step I will bill only after you confirm my works
+
+Danny Ferraro 4:58 AM
+what's included in the mockup, just so i'm prepared for next steps
+
+and i'll shoot over the offer for the $100 and the mockup itself and we can discuss that on a call
+
+Antonii Roh 5:02 AM
+Okay, then please make offer to build mock up.
+Thank you.
+
+Danny Ferraro 5:10 AM
+I will just to clarify what’s in the mockup
+
+So I’m clear on what to expect
+
+Antonii Roh 5:11 AM
+- Site structure include pages related with main features
+- Build milestones for successful development include timeline and deliverables.
+
+Danny Ferraro 5:12 AM
+And it’ll go thru what will be done to achieve those milestones like where we should be, what functionality the site will have at certain deal phases, etc
+
+Also I’m pretty firm at 5k I want to make sure if we chose to move forward that’s a number that works
+
+Antonii Roh 5:13 AM
+I am sure I will build this project under your budget - 5k
+
+Also I want to work with you for a long term.
+
+Danny Ferraro 5:14 AM
+Appreciate that
+
+But the mock up will have where we should be and what the functionality of the site will be at during those milestones
+
+Antonii Roh 5:16 AM
+Got it, I have extensive experience in documentation, you can check it out via first milestone
+
+Danny Ferraro sent an offer
+
+ 5:17 AM
+Contract is for mockup of suggested site based on below requirements.
+
+
+
+We are looking for an expert web developer with experience in Make.com to build a website that seamlessly integrates Google Sheets and ChatGPT. The main objective of this project is to convert CSV data into prompts for CRM delivery using OpenAI technology. The website should have a user-friendly interface that allows easy data input and retrieval. As an expert in Make.com, you should be able to efficiently utilize its features to create a robust and scalable solution.
+
+
+
+Required Skills:
+- Proficiency in Make.com
+- Strong knowledge of Google Sheets integration
+- Experience with ChatGPT integration
+- Expertise in converting CSV data into prompts for CRM delivery
+
+
+
+If you have the necessary skills and expertise, we would love to hear from you. This is a great opportunity to showcase your abilities and make a significant impact on our CRM system.
+
+
+
+Please include samples of your previous work with Make.com and any relevant certifications or qualifications in your application.
+
+
+
+We look forward to working with you!
+
+Est. Budget: $100.00
+
+Milestone 1: Expert Web Developer with Make.com, Google Sheets, and ChatGPT Integration Experience
+
+Due: Thursday, Jul 11, 2024
+
+Amount in escrow: $100.00
+
+View details
+Favorited
+Danny Ferraro 5:18 AM
+Give me a 24 hour heads up on when we can sync for the review so we can hop on a quick call
+
+Antonii Roh accepted an offer
+
+ 5:18 AM
+Thanks, I will do my best.
+
+View details
+Antonii Roh 3:32 PM
+Hi, Good morning.
+I made the document with milestones and mockups for this project.
+
+Danny Ferraro 3:33 PM
+That was a fast four hours lol can you share
+
+Antonii Roh 3:33 PM
+I named it - "Social Bulk DM Project"
+
+Social Bulk DM Project v1.0(20240707).xlsx 
+Social Bulk DM Project v1.0(20240707).xlsx
+2 MB
+Please give me correct name of this project.
+
+Danny Ferraro 3:34 PM
+Dmlyy
+
+Antonii Roh 3:34 PM
+Please let me know if I missed anything.
+
+Antonii Roh 10:53 PM
+Hi
+
+Monday, Jul 08
+Antonii Roh 5:15 PM
+Hi, Good morning
+
+Tuesday, Jul 09
+Antonii Roh 4:38 PM
+Hi Danny, Good morning.
+Do you have any problem in this project?
+
+Wednesday, Jul 10
+Antonii Roh 2:49 PM
+https://tweetfull.com/
+
+Get Free Twitter Followers, Likes & Retweets | Tweetfull
+Get free Twitter followers with TweetFull's powerful automation tools. Boost your social media presence effortlessly. Sign up now!
+Tweetfull
+I will build the system like this include bulk DM feature if you allow.
+
+Thursday, Jul 11
+Antonii Roh requested payment for the milestone
+
+ 11:35 PM
+Please check my work.
+
+Milestone 1: "Expert Web Developer with Make.com, Google Sheets, and ChatGPT Integration Experience"
+
+Due: Thursday, Jul 11, 2024
+
+Amount: $100.00
+
+View details
+Social Bulk DM Project v1.0(20240707).xlsx 
+Social Bulk DM Project v1.0(20240707).xlsx
+2 MB
+Friday, Jul 12
+Danny Ferraro approved the milestone
+
+ 3:22 AM
+Milestone 1: "Expert Web Developer with Make.com, Google Sheets, and ChatGPT Integration Experience"
+
+Due: Thursday, Jul 11, 2024
+
+Amount paid: $100.00
+
+Amount: $100.00
+
+View details
+Antonii Roh 4:04 AM
+Thank you for your payment.
+
+Monday, Jul 15
+Danny Ferraro 12:52 AM
+Hey sorry it’s taken me a minute to get back to
+
+The work was stellar really great job
+
+Would we be able to leverage the mock up and build a viral post generator for instagram. I want an aggregator of data.
+
+
+
+Sorry I’ve spent days thinking about this. You basically put in your niche it’ll search niche subtopics and viral reels and recommend a posting schedule of what to post
+
+Also meant to ask hosting and server questions
+
+Antonii Roh 4:39 AM
+I suggest AWS EC2 hosting for this project.
+
+
+
+I understood you are looking to create a tool that could generate viral content ideas for Instagram, specially for reels based on a given niche.
+
+
+
+No problem. I can build this project completely.
+
+Danny Ferraro 5:01 AM
+What’s time frame/cost
+
+I feel like it’s more viable
+
+Antonii Roh 5:34 AM
+I think it takes about 3 weeks because we don't need chrome extension for bulk DM.
+The cost is based on my rate basically but let me know your budget you can invest.

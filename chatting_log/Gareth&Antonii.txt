@@ -1,0 +1,383 @@
+Wednesday, Jul 24
+Antonii Roh 7:22 PM
+Hello client, Great to meet you in here.
+I am eager to bring my expertise in Leaflet.js and contribute to the advancement of your map drawing tool, combining my technical skills with a passion for innovative solutions.
+With rich experience in JavaScript and proven expertise in Leaflet.js.
+I am sure that my ability can contribute effectively to your team and deliver high-quality results.
+Don't hesitate to contact me at anytime.
+Best regards.
+
+View details
+Gareth Clark 7:22 PM
+Hello Antonii, I hope you are doing well.
+I am interested to discuss your application to this post
+
+Antonii Roh 7:44 PM
+Hi Gareth,
+Thank you for your kind response.
+
+Antonii Roh 8:16 PM
+In my previous project, I have had experience working with Leaflet.js to develop interactive and user-friendly map applications.
+
+
+
+This project involved implementing advanced features such as dynamic layer controls, real-time data updates, and custom marker clusters.
+
+
+
+These are some key highlights from my experience with Leaflet.js
+
+
+
+- Custom Map Layes
+I developed and integrated various custom map layers to display different types of data, including heat maps and choropleth maps.
+
+
+
+- Interactive Features
+I have implemented interactive features such as drawing tools, pop-ups, and custom controls to allow users to interact with the map data more effectively.
+
+Gareth Clark 8:17 PM
+I'm just pulling together some additional details and I will send through
+
+Antonii Roh 8:18 PM
+Okay.
+I will wait.
+
+Gareth Clark 8:46 PM
+https://www.loom.com/share/9ab121909a8e4a7d9a201ce580199f9a
+
+
+https://docs.google.com/document/d/1O1tcxB2q7TJqSMTxLnAti4nCHbzvxcCztF5IU77Z65A/edit?usp=sharing
+
+Please review and let me know any questions. Sorry it is quite long as there are quite a lot of changes that we want to do
+
+Antonii Roh 8:49 PM
+Okay, I will look at this and let you know.
+
+Antonii Roh 11:29 PM
+I have reviewed your video and google doc for a few hours.
+And send you my simple solution doc.
+Please check it.
+
+Explaination.docx 
+Explaination.docx
+15 kB
+Gareth Clark 11:39 PM
+Hello Antonii, thank you for providing this and it demonstrates a clear understanding of the task from your side.
+Do you have an estimation for me on the time investment in this?
+
+Antonii Roh 11:46 PM
+I estimated this approximately 35 ~ 45 hours over a week or 10 days.
+This is only estimate but it may be adjusted along the way.
+
+
+
+Thank you for your consideration.
+
+Gareth Clark 11:48 PM
+Hi Antonii, this works for me
+
+Given that this is currently built into Odoo and you have not worked with Odoo before, how can i assist you with accessing the solution and testing etc?
+
+I will give you access to the code base but it is built into a module for Odoo, so i'm not sure if you have a way to work on it outside of the Odoo platform or you will need to deploy Odoo to test it inside of the platform
+
+I do have developers working full time in our company who can always assist you with the Odoo side of things
+
+You can provide me with your github name and I can add you into the repository where you can take a look
+
+Ok course it is late now, so we can also sort everything tomorrow if it is better for you
+
+Antonii Roh 11:54 PM
+You could provide me with access to a development or staging Odoo environment where I can work on the map drawing tool module.
+This could be through a cloud-based Odoo instance.
+
+Gareth Clark 11:55 PM
+Ok, we have this and will provide for you
+
+Antonii Roh 11:57 PM
+Okay, if you send me the offer, I will prepare the environment to start working from tomorrow.
+
+Gareth Clark
+Jul 24, 2024 | 11:53 PM
+Ok course it is late now, so we can also sort everything tomorrow if it is better for you
+
+Gareth Clark sent an offer
+
+ 11:58 PM
+We are seeking a skilled software developer with experience in Leaflet.js to enhance the functionality of our map drawing tool. The ideal candidate will have a strong understanding of Leaflet.js and be able to implement new features and improve existing ones. Additionally, experience working with Odoo would be advantageous. The developer will be responsible for working closely with our team tlon an existing project.
+
+
+
+Please only apply if you have proven experience on previous projects using leaflet.js.
+
+Rate: $25.00/hr
+
+Rate Increase: None
+
+Limit: 40 hrs/week
+
+View details
+Antonii Roh 11:58 PM
+Thank you.
+
+Thursday, Jul 25
+Antonii Roh accepted an offer
+
+ 1:12 AM
+Thank you for your offer!
+
+View details
+Gareth Clark 7:49 AM
+Please do share your GitHub name so I can add you to the repo
+
+Gareth Clark 10:43 AM
+Hello Antonii, do you want access here so you can get started?
+
+Antonii Roh 10:49 AM
+Hi Mr. Gareth, So sorry, I just woke up.
+
+My github name is Antonii723
+
+antoniiroh at gmail dot com
+
+Gareth Clark 12:23 PM
+drawing.elitetechnique.com
+elitetechnique@outlook.com
+9^AoGP7x6pNoXJ*A
+
+
+
+I have setup this instance for you to test on. The code here will automatically pull through from the drawing_tool branch of the code
+
+Login | Elitetechnique
+JC FENCE COMPANY INC
+Gareth Clark 12:32 PM
+https://www.loom.com/share/f9aae2c1ccdf421ea3f5877312993b2e
+
+
+Antonii Roh 12:50 PM
+Thank you very much! I will check them out and let you know when I have any problem.
+
+Antonii Roh 2:12 PM
+I have checked your video.
+Please invite me to your github repository using my github username.
+So I can start working on the repository.
+
+Gareth Clark 2:21 PM
+You should already have the invite with you
+
+Antonii Roh 2:39 PM
+Thank you. I will do my best.
+Your company is fine in every side.
+If I do a good job, I think we can continue to cooperate in the future.
+I would appreciate it if you could tell me about the things I will consider in the future during the work process.
+
+Gareth Clark 5:46 PM
+Hello Antonii, please be advised that tomorrow I am travelling so I might be delayed in replying to any messages. I just wanted to make sure before I leave that you have everything you need to be working on this?
+
+Antonii Roh 6:32 PM
+Hi, Gareth.
+there is no problem in working yet.
+If I need your help, I will immediately contact you.
+Have a good travel.
+Thank you.
+
+Gareth Clark 6:32 PM
+👍
+
+Antonii Roh 7:16 PM
+Hi, Gareth.
+Sorry for interrupt you but just a question.
+Could you possibly tell me about the version of the python for this project?
+
+Gareth Clark 7:23 PM
+3
+
+3.10.12 I think is the version running on the server currently
+
+Antonii Roh 8:16 PM
+Thanks.
+
+Monday, Jul 29
+Gareth Clark 9:22 AM
+Good morning Antonii, I hope you had a good weekend. I just wanted to check in on if you had any updates here for me.
+
+Antonii Roh 9:41 AM
+Good morning Gareth.
+Did you have a good weekend?
+
+
+
+I have already finished the first task and committed the updated code to Github, and upgraded the CRM_Dashboard and Drawing tool modules.
+Please check it out and let me know your suggestion.
+
+Antonii Roh 2:40 PM
+Hi Gareth,
+Have you checked the code I committed?
+
+Gareth Clark 3:16 PM
+Hi Antonii, I have not had time yet today. Most probably tomorrow morning I will have time to check it
+
+Be sure to carry on with other items in the meantime
+
+Antonii Roh 3:28 PM
+Okay Got it,
+I will work continuously.
+
+Gareth Clark 11:33 PM
+https://www.loom.com/share/c758762511c248ad80e4149e2819a5d4
+
+
+Just with the bold, underlines options etc. Would it be possible to do them as icon like in a normal toolbar?
+
+Like these type of icons you can just select on and off. I think that will make it more user friendly as people will be used to see those type of icons and know immedaitely what it is
+
+Screenshot 2024-07-29 233431.png 
+Screenshot 2024-07-29 233431.png
+Tuesday, Jul 30
+Antonii Roh 12:29 AM
+Yes. I understand. I will fix it.
+If you have any ideas more, please feel free to suggest at any time.
+Thank you.
+
+Gareth Clark 12:37 AM
+At the moment the priority is to get all the functionality running ASAP, after that we can work to make smaller improvements, but it would be great to get as much as possible of the features in place quickly
+
+Antonii Roh 1:04 AM
+Okay, Got it.
+I have researched the environment and figured the project out, so it took some time.
+But because I have already implemented the first features, so I can implement the rest features asap.
+
+
+
+I will update immediately as progress is made.
+
+
+
+Than you.
+
+Gareth Clark 1:24 AM
+👍
+
+Antonii Roh 11:58 AM
+Good morning, Gareth.
+How are you?
+
+
+
+While developing in a local environment, I have encountered a few issues on the map drawing page that I'd like your assistance with
+1. The Fence product list is not displayed.
+2. The material list by Fence is not displayed.
+3. The Cable/Pipe list is not displayed.
+
+
+
+Please check the screens below and let me know why this data is not appearing on the drawing page.
+
+3 files 
+1.png
+2.png
+3.png
+Gareth Clark 12:08 PM
+Are you working off of a database dump that I provided or you created a new database?
+
+Antonii Roh 12:18 PM
+I created a new database.
+And excuse me, what is the database dump you provided?
+
+Gareth Clark 12:21 PM
+Ok, so it will not work on new database because you have no products created and so they cannot appear there
+
+I can send you a database dump from an instance that have everything setup if you want to use that to test locally
+
+Antonii Roh 12:22 PM
+Please send me.
+
+Gareth Clark 1:19 PM
+https://drive.google.com/file/d/1yhZxgVFP73fRX-2NWsLHESNr-ZXm3-B-/view?usp=drive_link
+
+Antonii Roh 1:26 PM
+Thank you.
+I will check it and connect you again.😊
+
+Gareth Clark 10:59 PM
+Hi Antonii, did you manage to use this database dump and did it resolve the issues you were having? I'm still hoping we can make some good progress this week
+
+Wednesday, Jul 31
+Antonii Roh 1:50 AM
+Hello Gareth,
+Just pushed 2nd task I completed.
+In fact, I tried to build the local development environment again using the database dump file you provided, but error occurred due to compatibility issues with odoo version('m using v14 default framework). So I have imported only the tables containing the relevant with crm_dashboard into a new database, but the error still occurred. so I need overall framework to make same environment in my local.
+
+
+
+Thus I didn't get message here when I working today so to improve my responsibility, it would be nice if you share another contact info for quick response and smooth communication.
+
+
+
+Best regards,
+
+Antonii Roh 4:50 AM
+Good morning, Gareth.
+Maybe you are in bed and I apologize disturbed you.
+I committed to the third item and I 'm working on the fourth item now.
+
+Gareth Clark 8:21 AM
+Great, its looking good thanks. There are a few polishing points that I would make but i think lets push and get all functionality in place and then I will do a complete run through and give you any changes that I want made at the end
+
+Gareth Clark 9:57 PM
+Hi Antonii, just to say that in the last code that you have pushed through there seems to now be an issue with the text box
+
+https://www.loom.com/share/3823d21abbc44cb1a70706fdc6c510d6
+
+
+Gareth Clark 10:54 PM
+All the other changes are top-notch so far, thank you very much for the good work.
+Once everything is through I will have an in-depth call with the client and review if there are some changes to be made here and there, but so far its all looking good
+
+Thursday, Aug 01
+Antonii Roh 1:41 AM
+Hi Gareth,
+Thank you for your good review of my work.
+I am sorry to forgot tell you after I pushed the modified code.
+
+
+
+I am working continuously for rest items.
+I will do my best to complete it asap.
+
+
+
+Thank you.
+
+
+
+*Oh, one more asking...
+When I am working, I cannot your message here, so it would be great that tell me your quick communication info.
+
+Antonii Roh 6:20 PM
+Hi Gareth,
+How are you?
+
+I just pushed the 3 other items.
+I am working continuously now.
+
+
+
+Please check it out and let me know.
+
+Gareth Clark 11:29 PM
+Thank Antonii, i'm travelling currently so cannot really check but once i'm able to I will. Great progress so far, keep pushing on and hopefully we wrap this all up in the next couple of days
+
+Friday, Aug 02
+Antonii Roh 12:02 AM
+Are you coming back next week?
+
+Gareth Clark 12:08 AM
+I'm on and off the next few days. I will be at airport tomorrow and test the new stuff you have pushed. I'm still online over weekend to check stuff
+
+Antonii Roh 12:10 AM
+Thank you.
+
+Read Friday

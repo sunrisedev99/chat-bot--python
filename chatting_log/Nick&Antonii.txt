@@ -1,0 +1,198 @@
+
+Antonii Roh 3:10 AM
+Dear client.
+I propose to undertake the project of scraping and sourcing data from specified online vendors, capturing images, product names, UPC codes, and product specifications, and uploading the cleansed data via the provided REST API. I has extensive experience in web scraping, data cleaning, and API integration, ensuring high-quality and reliable data for your needs.
+
+
+
+I am well-quipped to handle the complexities of this project, leveraging our expertise in web scraping and data our ability to meet your requirements and look forward to the opportunity to work with you.
+
+
+
+Please don't hesitate to reach out for any further details or to discuss the proposal in more depth.
+
+View details
+Nick Sawinyh 3:10 AM
+Hi,
+
+
+
+Could you give me a ballpark estimate on this spec: https://docs.google.com/document/d/1i9pnxKasWArvYRbCdJsFdQUeJKOcwr5g2oZ8Zkg4gU8/edit?usp=sharing
+
+
+
+Thanks
+
+Antonii Roh 5:39 AM
+Hi Nick, thanks for your consideration of my proposal!
+
+
+
+I have just reviewed your specification in Google drive and am confident to build this project completely.
+
+
+
+Here is a detailed plan with milestones and a timeline I made.
+
+
+
+1. Project Setup(2 hours)
+- Install and configure initial project. (2 hours)
+2. Scraping logic development (19 hours)
+- Develop logic for Guns.com. (3 hours)
+- Develop logic for PK Guns. (3 hours)
+- Develop logic for Palmetto State Armory. (3 hours)
+- Develop logic for GrabAGun.net. (3 hours)
+- Develop logic for deguns.net. (3 hours)
+- Refine and Optimize the scraping logic, ensuring all data points are captured accurately.. (4 hours)
+3. API integration. (3 hours)
+
+
+
+My time estimation is 24 hours totally, the rate I suggest for this project is $34 so the total cost is $816.
+
+
+
+The cost I suggest is flexible, please discuss more if you'd like.
+
+
+
+Sincerely,
+Antonii
+
+Nick Sawinyh 1:11 PM
+This is data only right? So you scrape data on your own and deliver results via rest API to us?
+
+Antonii Roh 1:32 PM
+Yeah, of course I will provide the source code so that you can check out.
+
+Nick Sawinyh 1:33 PM
+I mean, would you run this code on your own and deliver data to us?
+
+Antonii Roh 1:33 PM
+Yes, I can run on my end and will send datas via api you mentioned on Google doc
+
+Nick Sawinyh 1:35 PM
+sounds good, I'll update api and doc slightly today and let you know when we are ready to do this.
+
+Antonii Roh 1:37 PM
+I am available now. So I can start immediately after you send changed doc.
+
+Antonii Roh 3:29 PM
+Are you there?
+
+Nick Sawinyh 3:31 PM
+I think it will take some time to finish updating the docs. I let you know
+
+Antonii Roh 3:41 PM
+Okay.
+
+Saturday, Jul 20
+Antonii Roh 8:51 PM
+Hi, Nick.
+
+Monday, Jul 22
+Antonii Roh 2:35 PM
+Hi Nick, Good morning.
+
+I wait for you to finish updating doc
+
+Antonii Roh 3:30 PM
+I have just checked your google document carefully. It was clear for me. Please let me know about when I can start.
+
+Nick Sawinyh 3:40 PM
+Hey, I just finished API doc update, please note that we changed how images are stored and uploaded
+
+Nick Sawinyh sent an offer
+
+ 3:41 PM
+I need a team to scrape and source data from the specified online vendors, capturing images, product names, UPC codes, and product specifications.
+
+
+
+Cleared data has to be uploaded via the provided rest API.
+
+Est. Budget: $816.00
+
+Milestone 1: Scrapy project - 5 websites
+
+Due: Wednesday, Jul 31, 2024
+
+Amount in escrow: $816.00
+
+View details
+https://docs.google.com/document/d/1i9pnxKasWArvYRbCdJsFdQUeJKOcwr5g2oZ8Zkg4gU8/edit
+
+API key
+b30dfad361f96ae4044f54b45be9e23df73926d9f3387ff34063dc27bfee8441b91598fd8a30811c7c0f6c468b9215de5e0ef242fa48e85341691b39b21f554c9bad63d9575f0796153dd5d210fdfc948e9516eb3e11c1b735517ca68e60e5a2a433b1a72a84e27dbf423e29ede2875fc7e1fdf4da0078d34e508487ce43ca0f
+
+Antonii Roh 3:47 PM
+Okay.
+I will start working right now.
+I will ask if I have any questions during the progress.
+
+Thank you.
+
+Nick Sawinyh 3:50 PM
+thanks, feel free to ping me on tg: sneg55
+
+Tuesday, Jul 23
+Nick Sawinyh 1:23 PM
+Is everything going well? Any issues or questions?"
+
+Antonii Roh 1:28 PM
+Good morning. Now I am working on it.
+
+
+
+There are some issues during the working but I am solving them well.
+
+
+
+For example, there are many blocker to scrape the data in Guns.com. But I made lots of progress.
+Maybe I send the some result if you'd like.
+
+Nick Sawinyh 1:36 PM
+Thanks. When you have the dataset for guns.com ready, send it via API.
+
+Antonii Roh 1:38 PM
+Okay.
+
+Wednesday, Jul 24
+Nick Sawinyh 1:39 PM
+It would be great if you could upload some results via API, as you have a scrapper going.
+
+Antonii Roh 1:45 PM
+Good morning
+
+Now I am gathering the data. I will send the data via API that you suggested today.
+
+
+
+Maybe it will take some time.
+It is okay for you?
+
+Nick Sawinyh 2:43 PM
+yeah
+
+Antonii Roh 2:57 PM
+But I have a question now. I scraped some data from Guns.com. But when I send the data via API that you provided, I have to send a request every product. It will take long time.
+Of course, it will take long time even to get all data from Guns.com.
+
+
+
+As a matter of fact, as you know the estimated time is exceeding.
+So I am working hard to send the correct and reliable data doing my best.
+
+
+
+I will contact you as soon as I have done.
+
+Friday, Jul 26
+Nick Sawinyh withdrew an offer
+
+ 1:25 PM
+Reason: This offer has been withdrawn
+
+View details
+Antonii Roh is currently restric

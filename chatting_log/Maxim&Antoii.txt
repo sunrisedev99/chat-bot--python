@@ -1,0 +1,203 @@
+Antonii Roh 4:51 AM
+Hello,
+I'm eager to contribute to your project as a developer well versed in not only Python and React but also C++, particularly for integrating and working with the Ocean library developed by Facebook.
+Based on your requirements, here's how I can help you.
+
+
+
+First things first, I will explain about my experiences and skills.
+
+
+
+- In terms of strong proficiency in C++, given my strong proficiency in C++, I have not only build numerous projects using C++, and I have an extensive experience in C++ development with a strong grasp of modern CPP standards and practices.
+
+
+
+- My computer vision and augmented reality experience are also ample.
+I have proven track record working on CV and AR applications, including developing algorithms for image processing and object recognition.
+
+
+
+- Next, I would like to explain my expertise on each platform.
+1. iOS - Proficient in Objective-C and Swift with experience integrating platform-specific challenges.
+2. Android - Skilled in Java and Kotlin, with a background in Android SDK and application development.
+3. Oculus Quest - Hands-on experience with the Oculus SDK and VR development including performance optimization and user interaction design.
+
+
+
+- High-Performance Image Processing, photogrammetry, and rendering ensuring efficient and high-quality outputs.
+
+
+
+Second, About Project Approach.
+
+
+
+- Integration of Ocean Library:
+1. Setup - Initial configuration and integration of the Ocean library with C++ codebase.
+2. Development - Implementing core functionalities and ensuring smooth interaction between the library and existing systems.
+
+
+
+- MVP Development:
+1. Objective - Develop an MVP that showcases the core features and capabilities of the Ocean library in a practical application.
+2. Testing - Rigorous testing and debugging o ensure the MVP meets you expectations and performance standards.
+
+
+
+- Documentation and Support:
+1. Documentation - Detailed documentation of the integration process, code and usage guidelines.
+2. Support- Ongoing to address any issues and refine the implementation based on feedback.
+
+
+
+I have substantial experience aligns with the requirements for developing similar applications, ensuring a high-1uality outcome for your MVP.
+I'm confident that my skills and experience make me a strong candidate for this project, and I look forward to the opportunity to contribute to your development goals.
+
+
+
+Please don't hesitate to connect me if you want at any time.
+
+View details
+Maxim Todorov 4:51 AM
+Привет, в понедельник отправлю ТЗ
+
+Antonii Roh 5:03 AM
+👍
+
+Monday, Jul 22
+Antonii Roh 4:35 PM
+Good morning, Todorov.
+today is Monday as promised.
+I'm interested in your task and await your technical specifications.
+Please contact me whenever you are ready.
+
+Tuesday, Jul 23
+Maxim Todorov 12:20 AM
+https://docs.google.com/document/d/1lKsiVJk2GE1mZZD-bv5DHdzUyDEa7wtA2swaovSTCpM/edit?usp=sharing
+
+Antonii Roh 1:57 AM
+Hi Maxim
+I just check the PoC for MoE(google doc and video), this idea is fantastic.
+
+
+
+Before getting start, I have a question.
+I met many clients to build AR product btw they have used OpenCV library for their projects so I skilled in OpenCV.
+
+
+
+Could you let me know in detail why you should use ocean library for your project?
+It would be very helpful if you give answers to me for that.
+
+
+
+No worries, I can start immediately when you hire me.
+
+Antonii Roh 2:59 PM
+Good morning, Maxim.
+There are so many developers but not so many suitable ones for your task.
+I have just finished the analyzing about your task completely.
+Just give me a ring as soon as you possible.
+I always ready...
+
+Wednesday, Jul 24
+Maxim Todorov 6:53 AM
+that's what need to be used
+
+https://facebookresearch.github.io/ocean/
+
+Ocean
+it's new library
+
+Antonii Roh 8:07 AM
+Make sense. Could you let me know the deadline for this project?
+
+Antonii Roh 8:15 AM
+I have seen your upwork profile so I knew you are senior full stack web developer and designer.
+As a AI & App developer, I can help with you if you have such jobs.
+
+
+
+I do hope to work with you with good relationship.
+
+Maxim Todorov 11:11 PM
+Hi
+
+We don't have a strict deadline here, we need to get PoC
+if there is any part that looks hard we can remove it
+
+Antonii Roh 11:34 PM
+Okay, if you hire me, I will build that source and proof your idea with my passion.
+
+Maxim Todorov created a Zoom meeting
+
+ 11:46 PM
+
+The meeting ended (Duration: 00:00)
+
+Share feedback about the call quality
+Do you have 5 minutes to talk?
+
+no camera, just fast syncup
+
+Antonii Roh 11:48 PM
+Okay, just give me 5 or 10 mins.
+
+Antonii Roh 11:57 PM
+Please send me the meeting link again.
+
+Thursday, Jul 25
+Maxim Todorov 7:40 AM
+I am sorry, I missed the time
+let's do around 1pm ET tomorrow
+
+Antonii Roh 10:52 AM
+👌 👍
+
+Maxim Todorov 7:04 PM
+are you ready?
+
+Antonii Roh 7:08 PM
+Yes, I am ready...
+
+Please give me your google meeting link.
+
+Antonii Roh 7:24 PM
+are u there, Maxim?
+
+Maxim Todorov 8:13 PM
+I am here
+
+Monday, Jul 29
+Maxim Todorov 7:26 PM
+Are you still interested in the project?
+
+Antonii Roh 7:41 PM
+Hi, maxim.
+
+Of course I am.
+
+Antonii Roh 7:48 PM
+TO this day, your project is still in mine.
+
+Please don't hesitate to tell me your thinking.
+
+Tuesday, Jul 30
+Maxim Todorov 11:45 PM
+Great
+
+so you have seen the documentation and our google doc
+
+can we try to build small mvp?
+
+Can we start from this small part
+
+
+
+Loading and Rendering the Model
+Using the Ocean Framework, I'll load the MoE 3D model and set up the scene, including camera positioning and lighting. If no ones speaks for a certain amount of time, Moe dissapears.
+
+
+
+just to make sure we can work together

@@ -1,0 +1,469 @@
+Antonii Roh 7:37 PM
+Hello Client, I am so glad to meet you.
+
+
+
+Thank you for considering my application for your travel fee calculation program.
+I am looking forward to the chance to work together and create a solution that meets your needs perfectly.
+
+
+
+Here's how I would approach this project:
+
+
+
+1. Distance Calculation
+I will utilize the Google Maps API or OpenStreetMap API to calculate the distance between addresses. This will ensure accurate distance measurements.
+-Obtain Coordinates for Addresses
+Departure address: Headquarters location.
+Destination Address: The address where the service is requested.
+
+
+
+I will use a geocoding API such a Google Maps API to convert these addresses into latitude and longitude coordinates.
+
+
+
+-Calculate Distance
+I will use the latitude and longitude coordinates of both addresses to calculate the distance between them.
+The Haversine formula is commonly used for this calculation. It computes the great-circle distance between two points on the Earth's surface, given their latitudes and longitudes.
+
+
+
+2. Fee Calculation Logic
+I will develop a Python backend to process the distance data and apply the appropriate fee based on your tiered structure.
+-Determine the Fee Based on Distance
+I can compare the calculated distance with the defined distance ranges.
+And then I can used the fee structure to determine the appropriate travel fee based on the distance range in which the distance falls.
+
+
+
+3. User Interface
+I will create a web-based interface using JavaScript frameworks such as React or Angular where you can enter addresses and view travel fees.
+Thank you for reviewing my proposal.
+
+
+
+I am confident that my expertise and approach will deliver a solution that meets your needs effectively.
+
+
+
+Best regards.
+
+View details
+Matthew Miller 7:37 PM
+How much would it cost in total ?
+
+Antonii Roh 7:56 PM
+Hi Mathew,
+I think it takes about 17 ~ 23 hours totally.
+
+
+
+- UI interface (16 ~ 20 hours)
+- API integration (1~3 hours)
+
+
+
+the rate I suggest for this project is $36 so total cost is $616 ~ $828.
+
+This cost is just estimation, and it is flexible, we can discuss more if you'd like.
+
+Sunday, Jul 21
+Matthew Miller 1:45 AM
+Will this be web based ?
+
+I have a bunch of different locations
+
+I want it ro realize where it’s entered and calculate Cloests
+
+Closest point
+
+Antonii Roh 2:47 PM
+Yeah, it will,
+By following these steps, I an create a web-based application that calculates travel fees based on the distance to the closest HQ location, providing a user-friendly experience for your catering company.
+
+
+
+1. I will design UI Components like this.
+-Address Input: A form to enter the address.
+-HQ Location Selector: Dropdown to select the HQ location.
+-Results Display: Show calculated travel fee and closest HQ location.
+2. As I mentioned before, I will integrate Google Maps API for address
+auto-completion and implement geocoding to convert the address to coordinates.
+3. These are API Endpoints to build this project.
+Geocode, calculate-distance, calculate-fee.
+4. I will use MongoDB and create a data base to store HQ locations with their coordinates.
+
+
+
+I will use React.js for a dynamic user interface and I recommend redux as React library.
+I will use Node.js with Express.js and Python for server-side logic.
+That's all
+I will wait for your reply.
+
+Monday, Jul 22
+Matthew Miller 5:23 AM
+When can I have it done by
+
+You have it done by
+
+And let me knack when you can hop on a call
+
+Antonii Roh 5:54 AM
+Yeah, I can call at 9 AM on your time zone.
+
+Please send me the Zoom meeting or Google meet link.
+
+Matthew Miller created a Zoom meeting
+
+ 8:07 AM
+
+The meeting ended (Duration: 00:00)
+
+Share feedback about the call quality
+Matthew Miller created a Zoom meeting
+
+ 8:07 AM
+
+The meeting ended (Duration: 00:00)
+
+Share feedback about the call quality
+Let me know if you’re free
+
+I want to hire someone asap
+
+Do you have what’sapp
+
+Antonii Roh 1:37 PM
+Hi Mathew
+How are you?
+
+I am ready for interview.
+
+I just created google meet link for that.
+
+https://meet.google.com/wex-frvu-xym
+
+Antonii Roh 3:23 PM
+Hi
+
+Antonii Roh 4:16 PM
+I am available now.
+
+Antonii Roh 5:24 PM
+When I think about it again.
+If you are going to use the program on your own, I think APP program would be better than WEB program.
+In my opinion app program is more convenient than web program.
+So if you want app program, I will build your project using C# based on my rich C# experiences.
+
+Tuesday, Jul 23
+Matthew Miller 1:35 AM
+I’m in china zoom won’t work
+
+Are you available
+
+Antonii Roh 1:47 AM
+then google meet is available on your side?
+
+Antonii Roh 2:00 AM
+I can use tg or sky.p if you are available.
+
+Matthew Miller created a Zoom meeting
+
+ 3:31 AM
+
+The meeting ended (Duration: 04:19)
+
+Share feedback about the call quality
+I can join
+
+Let me know if you are free
+
+Antonii Roh 4:07 AM
+Hi,
+
+https://us05web.zoom.us/j/89874250740?pwd=9ZwCbt2r07ntGwqZ3dRgqzH1lsoBeB.1
+
+
+
+Passcode: iRuMU9
+
+Please join here. I am ready
+
+Antonii Roh 4:21 AM
+Hi Matthew, I am still waiting for you.
+
+any problem do you have?
+
+Matthew Miller 4:36 AM
+Are you there
+
+I can join now
+
+Let me know !
+
+Antonii Roh 4:36 AM
+Okay
+
+Matthew Miller created a Zoom meeting
+
+ 4:36 AM
+
+The meeting ended (Duration: 00:50)
+
+Share feedback about the call quality
+Join that
+
+My Audio isn’t working
+
+Try and join
+
+Matthew Miller created a Zoom meeting
+
+ 4:38 AM
+
+The meeting ended (Duration: 08:09)
+
+Share feedback about the call quality
+Antonii Roh 4:39 AM
+one sece
+
+Matthew Miller 4:47 AM
+Send me over so we can get started
+
+What is your email address
+
+Antonii Roh 4:48 AM
+antoniiroh at gmail com
+
+Matthew Miller 4:49 AM
+Hibachi2U HQ Locations.docx 
+Hibachi2U HQ Locations.docx
+17 kB
+I just she the locations where
+
+Here
+
+Please send me proposal so we can get started
+
+Antonii Roh 4:50 AM
+Okay,
+
+Just checked, it's enough to start.
+
+Please make contract so that I can jump
+
+Matthew Miller 5:28 AM
+I neber got proposal
+
+I would like to start
+
+Antonii Roh 5:57 AM
+Oh, as you can see my profile, my default hourly rate is $45 and the rate I bided is $36, the estimated work time is 23 hours.
+
+So total cost is $828 ~ $1035
+
+You can make fixed price offer in range of them.
+
+Antonii Roh 8:39 AM
+Hi Matthew
+
+Antonii Roh 9:56 AM
+Are you busy?
+
+Antonii Roh 10:02 AM
+I have currently established a development environment and am on the initial project structuring stage. Btw we need a Google map api key to test project.
+Of course I can use my own key but it needs for production stage.
+
+Also please check my proposal out and make offer asap
+
+Antonii Roh
+Jul 23, 2024 | 5:58 AM
+So total cost is $828 ~ $1035
+
+it needs for my passion. 🙂
+
+Thanks
+
+Matthew Miller sent an offer
+
+ 4:27 PM
+Looking to have a program made where I can enter a location and it will calculate if there is a travel fee. I own a catering company across the us and want to be able to enter dress from my Hq and see if there’s a fee .
+Have multiple across the country
+Example
+NY addess ( main location)
+Under 50 miles no travel fee
+50-74 miles 50 $ travel fee
+75-99 75 $ travel feel
+100-149 100$ travel fee
+150 plus 150$ travel fee
+
+Rate: $36.00/hr
+
+Rate Increase: None
+
+Limit: 25 hrs/week
+
+View details
+Please let me know if you can finish today
+
+Hibachi2u is my company name
+
+Antonii Roh 4:42 PM
+Thank you for your offer.
+Currently, I am working hard.
+I will try.
+
+Antonii Roh 6:42 PM
+Hi, I just built beta version of this project so I need to test.
+Please share your google api key(google geocoding api key and google map api key)
+
+And also Please send me Distance matrix api key so that I can test beta project.
+
+Antonii Roh 7:58 PM
+If you don't have any experiences in creating API key, you can refer this URL.
+https://developers.google.com/maps/documentation/geocoding/get-api-key
+I need Google API keys immediately to test our project.
+
+Use API Keys with Geocoding API  |  Google for Developers
+Google for Developers
+Wednesday, Jul 24
+Antonii Roh 5:21 PM
+Hi Matthew, How are you?
+
+You can check my work out via this video
+
+HQ Travel Fee Calculator.mp4 
+HQ Travel Fee Calculator.mp4
+2 MB
+Antonii Roh 5:45 PM
+The project is now in the completion stage.
+All basic functions have been completed.
+
+
+
+I will send the result asap, but I need your Google API key.
+I'm using my Google API key now, but app doesn't work if it is expired further in my side.
+
+
+
+Btw, I need your questions you needed during development.
+I think your response is a bit slow because your are very busy and our time zone is different each other.
+
+
+
+So, if you tell me the communication channel you frequently use, I will contact you through that.
+
+
+
+If you finish seeing my working video, please contact me and send me your communication channel if you don't mind.
+
+
+
+Thank you.
+
+Thursday, Jul 25
+Matthew Miller 5:26 AM
+Hey I’m back now ! to states
+
+it says you didn't accept yet
+
+my phone number
+
+1516
+
+949
+
+0501
+
+Antonii Roh 5:42 AM
+Hi, It's good news! Did you check the video I sent?
+
+I'd like to call you for your feedback.
+
+Also please make the Google API key and send it to me.
+
+Matthew Miller 7:17 AM
+It would have to be customers address entere
+
+Entered
+
+I’m unfimiliar with how to do that I just made a google. Cloud account
+
+I would need the closest hq to pop up
+
+And if possible maybe make it look more modern if possible with my logo on it
+
+IMG_1226.jpeg 
+IMG_1226.jpeg
+Matthew Miller 8:39 AM
+Logo isn’t that big of a deal if it’s to complicated let me know how to send the api
+
+Matthew Miller created a Zoom meeting
+
+ 1:11 PM
+
+The meeting ended (Duration: 25:29)
+
+Share feedback about the call quality
+r u there ?
+
+Matthew Miller 1:29 PM
+im not doing this
+
+this is sketchy
+
+telling me it's just you and then saying its your brother
+
+Antonii Roh 1:34 PM
+No worries,
+
+He was here as his worry only
+
+So shall I send you the introduction video for making the API key?
+
+Antonii Roh 3:13 PM
+Are you there.
+
+Antonii Roh 3:22 PM
+Are you feeling bad?
+I make a apologies for my behavior.
+I wanna believe you have a big mind.
+If you want, how about speaking through message no calling ?
+
+Saturday, Jul 27
+Antonii Roh accepted an offer
+
+ 4:53 PM
+Thanks
+
+View details
+Monday, Jul 29
+Matthew Miller 3:24 PM
+hope all is well is it done o Mac yet ?
+
+Antonii Roh 3:32 PM
+I think you did not say I work on it continuously.
+And we did not discuss the budget for Mac yet.
+Is the windows version works well?
+
+Matthew Miller 3:37 PM
+I can't use it
+
+I only have Mac
+
+budget ?
+
+that's what I hired you for
+
+Antonii Roh 3:43 PM
+You said you want to your employees use it on Windows.
+And you didn't explain your requirements that you want to use it on Mac,
+So I developed the windows version first as app development's workflow.
+
+
+
+Therefore for Mac, we need to discuss the additional budget.
+
+Read 7/29/24
